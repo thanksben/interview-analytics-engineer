@@ -17,6 +17,7 @@ customers and other entities.
 Sakila Database was developed by Mike Hillyer, who used to be a member of the AB documentation team at MySQL. For more 
 information regarding Sakila Database you can refer to the 
 [official MySQL documentation](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html). 
+![Sakila Database Schema](https://www.jooq.org/img/sakila.png)
 
 ## `dbt` service
 This service is built out of the `Dockerfile` and is responsible for creating dbt seeds, models and snapshots
